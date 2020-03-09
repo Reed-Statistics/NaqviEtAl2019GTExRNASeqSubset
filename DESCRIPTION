@@ -1,0 +1,23 @@
+Package: NaqviEtAl2019GTExRNASeqSubset
+Title: A Subset of GTEx Data
+Version: 0.0.0.9000
+Authors@R: 
+    person(given = "Maddy",
+           family = "Doak",
+           role = c("aut", "cre"),
+           email = "maddydoak@gmail.com")
+    person(given = "Christy",
+           family = "Lei",
+           role = c("aut", "cre"),
+           email = "chrlei@reed.edu")
+    person(given = "Claire",
+           family = "Milander-Mashlan",
+           role = c("aut", "cre"),
+           email = "milancl@reed.edu")    
+Description: A collection of the first 50 human samples from a restructured version of the GTEx data used in the 2019 study by Naqvi et al.
+License: CC0
+Encoding: UTF-8
+LazyData: true
+URL: https://github.com/Reed-Statistics/NaqviEtAl2019GTExRNASeqSubset
+BugReports: https://github.com/Reed-Statistics/NaqviEtAl2019GTExRNASeqSubset/issues
+RoxygenNote: 7.0.2
